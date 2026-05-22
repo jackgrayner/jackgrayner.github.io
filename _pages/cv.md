@@ -25,12 +25,6 @@ Work experience
   * University of St Andrews
   * Bailey Lab
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
 * Conference talk, **Evolution** (Virtual), Cleveland OH (2026)
