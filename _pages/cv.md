@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I'm very open to being offered jobs.
+I love to be offered jobs.
 
 Education
 ======
