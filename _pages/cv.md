@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Biology, University of St Andrews, 2020 (expected)
+* PhD in Biology, University of St Andrews, 2020
 * Master's by research (MRes) in Ecology, University of Nottingham, 2016
 * BSc Hons in Evolutionary Biology, University of Exeter, 2014
 
