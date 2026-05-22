@@ -46,9 +46,3 @@ Talks
 *	Conference talk, Population Genetics Group, Oxford (2019) ‘The role of sex-biased genes in rapid adaptation’
 *	Seminar, University of Florida (2018) ‘The role of sex-biased genes in rapid adaptation’
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
