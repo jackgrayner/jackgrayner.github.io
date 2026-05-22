@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+I'm very open to being offered jobs.
+
 Education
 ======
 * PhD in Biology, University of St Andrews, 2020
